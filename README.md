@@ -7,18 +7,18 @@ This homework was designed to allow us to get an understanding of how to clean u
 
 Screenshot of working webpage:
 
-https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/Site.png?raw=true
+![alt text](https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/Site.png?raw=true)
 
 
 
 Screenshot of HTML Code:
 
-https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/HTML-SC.png?raw=true
+![alt text](https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/HTML-SC.png?raw=true)
 
 
 Screenshot of CSS Code:
 
-https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/CSS-SC.png?raw=true
+![alt text](https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/CSS-SC.png?raw=true)
 
 
 
