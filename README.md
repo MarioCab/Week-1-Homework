@@ -5,6 +5,23 @@
 This homework was designed to allow us to get an understanding of how to clean up a HTML and CSS files by making the webpage semmantically correct, without compromising what the code itslef was doing. In this case, allowing us to reformat the size of the webpage and have all elements of the webpage fit correctly on the screen.
 
 
+Screenshot of working webpage:
+
+https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/Site.png?raw=true
+
+
+
+Screenshot of HTML Code:
+
+https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/HTML-SC.png?raw=true
+
+
+Screenshot of CSS Code:
+
+https://github.com/MarioCab/Week-1-Homework/blob/main/assets/images/CSS-SC.png?raw=true
+
+
+
 ## Installation
 
 Since this is a simple webpage that just requires viewing, all we need to do is open the link to the page (Inster link here) and adjust the screen size.
